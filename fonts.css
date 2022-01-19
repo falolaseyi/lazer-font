@@ -174,3 +174,28 @@
     font-stretch: normal;
     src: url('fonts/sohne/Sohne-Dreiviertelfett.woff2') format('woff2'), url('fonts/sohne/Sohne-Dreiviertelfett.woff') format('woff');
   }
+
+/* Proxima Alt */
+@font-face {
+  font-family: "proxima";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url('fonts/proxima/ProximaNovaA-Regular.woff2') format('woff2'), url('fonts/proxima/ProximaNovaA-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: "proxima";
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  src: url('fonts/proxima/ProximaNovaA-Semibold.woff2') format('woff2'), url('fonts/proxima/ProximaNovaA-Semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: "proxima";
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url('fonts/proxima/ProximaNovaA-Bold.woff2') format('woff2'), url('fonts/proxima/ProximaNovaA-Bold.woff') format('woff');
+}
